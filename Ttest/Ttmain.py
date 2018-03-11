@@ -10,3 +10,4 @@ while j!=-1:
     j=S.find('o')
 print(S)
 print('World!')
+print('Word!')
