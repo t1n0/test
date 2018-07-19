@@ -1,4 +1,4 @@
-j=0
+j = 0
 print('Hello')
 I = float('10.1')
 S = 'tino'
